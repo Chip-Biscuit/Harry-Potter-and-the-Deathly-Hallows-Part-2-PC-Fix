@@ -1,4 +1,4 @@
-# hp-Deathly-Hallows-Part-2-Fix-
+# Harry-Potter-and-the-Deathly-Hallows-Part-2-PC-Fix
 This is the Harry Potter and the Deathly Hallows Part 2 d3d9 wrapper.
 
 IMPORTANT READ THE READ ME FILE INCLUDED WITH THE DOWNLOAD FOR THE NON EA APP VERSION!!
