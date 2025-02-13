@@ -1,4 +1,7 @@
 # Harry-Potter-and-the-Deathly-Hallows-Part-2-PC-Fix
+
+![hp8](https://github.com/user-attachments/assets/d4819f9b-07e9-4455-bc4b-04bc7787487b)
+
 This is the Harry Potter and the Deathly Hallows Part 2 d3d9 wrapper.
 
 IMPORTANT READ THE READ ME FILE INCLUDED WITH THE DOWNLOAD FOR THE NON EA APP VERSION!!
