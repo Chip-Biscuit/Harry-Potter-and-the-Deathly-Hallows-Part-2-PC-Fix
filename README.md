@@ -16,7 +16,7 @@ If using the hp8NonEAAPPversion.zip extract the d3d9.dll, d3d9.ini and fps.dll f
 
 You can edit the settings you wish to use in the d3d9.ini file.
 
-this game seems to have issues if its not installed on the default path in your C drive so make sure its installed there. sometimes you may need yo right click the whole game file, uncheck read only, and then go to security tab and check all of the security permissons. 
+This game seems to have issues if its not installed on the default path in your C drive so make sure its installed there. sometimes you may need to right click the whole game file, uncheck read only, and then go to security tab and check all of the security permissons. Make sure that your exe has not previously been hex edited and is a fresh clean exe for the game. 
 
 # Aspect Ratio
 This is ONLY AVAILABLE in the hp8fix.zip. The default for aspect ratio is (0) which is 16:9, choose out of the other aspect ratios available to use by changing (0) to the number that’s correct for you.
