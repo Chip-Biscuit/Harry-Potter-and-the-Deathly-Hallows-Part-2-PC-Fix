@@ -5,7 +5,15 @@
 # Requirements before using fix
 IMPORTANT READ THE READ ME FILE INCLUDED WITH THE DOWNLOAD BEFORE USING THE FIX.
 
-Watch the official fix guide video here on how to install the game and use the fix - https://www.youtube.com/watch?v=FSrXKPkEST0&list=PLIkBjPwB07CTqLWUmpo1Pel6p7Pc4RlOZ&index=11 
+# Official video guide
+
+Watch the official fix guide video here on how to install the game and use the fix
+
+<a href="https://www.youtube.com/watch?v=FSrXKPkEST0&list=PLIkBjPwB07CTqLWUmpo1Pel6p7Pc4RlOZ&index=11">
+  <img src="https://github.com/user-attachments/assets/50208a92-6198-4b9c-82c7-094f1716b8e1" alt="hp72" width="480" height="360">
+</a><br>
+
+###### <i>Click the image above to watch the video</i>
 
 # Instructions
 Go to releases and download the latest of either hp8fix.zip or hp8NonEAAPPversion.zip depending on which version you need to use.
