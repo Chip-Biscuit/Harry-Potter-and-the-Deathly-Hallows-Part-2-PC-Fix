@@ -1,3 +1,11 @@
+<div align="center">
+
+# 🎮 Game Specific Patches  
+### Created & Maintained by **[Chip-Biscuit](https://chip-biscuit.github.io/)**
+Reverse Engineering • Programming • Patching • Game Improvements  
+
+</div>
+
 # Harry-Potter-and-the-Deathly-Hallows-Part-2-PC-Fix
 
 ![hp8](https://github.com/user-attachments/assets/d4819f9b-07e9-4455-bc4b-04bc7787487b)
